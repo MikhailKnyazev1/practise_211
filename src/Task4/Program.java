@@ -19,8 +19,11 @@ package Task4;
 ■ Показать все телевизоры, отсортированные по диагонали по убыванию.
  */
 
+import java.util.Scanner;
+
 public class Program {
     public static void main(String[] args) {
         //Здесь ваша реализация ДЗ
+        Scanner scanner=new Scanner(System.in);
     }
 }
